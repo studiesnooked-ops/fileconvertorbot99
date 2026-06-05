@@ -1,3 +1,8 @@
+aiohttp
+aiofiles
+flask
 pyrogram
+pyromod
+requests
 tgcrypto
 yt-dlp
